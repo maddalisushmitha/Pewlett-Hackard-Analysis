@@ -16,4 +16,7 @@ Finding number of retiring employees per title and identify employees who are el
 - There are 1549 eligible employees who can mentor the if company hires new employees
 - image 
 ## Summary
+- 90,398 roles are across 7 titles need to be filled
+-image
+-No, there are not enough employees to mentor as there only 1549 staff to metor the in coming staff who are 90398 
 
