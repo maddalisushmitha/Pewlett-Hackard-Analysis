@@ -31,7 +31,7 @@ Finding number of retiring employees per title and identify employees who are el
 ![M](https://github.com/maddalisushmitha/Pewlett-Hackard-Analysis/blob/main/Images%20for%20readme/mentoring_staff_count.png)
 
 ## Summary
-- 90,398 roles are across 7 titles need to be filled  
+- 90,398 roles across 7 titles need to be filled  
 
 
 ### Image with code
