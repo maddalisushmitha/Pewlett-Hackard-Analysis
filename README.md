@@ -38,5 +38,5 @@ Finding number of retiring employees per title and identify employees who are el
 
 ![T](https://github.com/maddalisushmitha/Pewlett-Hackard-Analysis/blob/main/Images%20for%20readme/Total_count.png) 
 
--No, there are not enough employees to mentor as there only 1549 staff to metor the in coming staff who are 90398 
+- No, there are not enough employees to mentor as there only 1549 staff to metor the in coming staff who are 90398 
 
