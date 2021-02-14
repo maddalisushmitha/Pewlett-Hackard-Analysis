@@ -6,5 +6,14 @@ Finding number of retiring employees per title and identify employees who are el
 
 
 ## Results:
-- The count for retirement_titles count is 133776 which contain both current and ex-employees
-- 
+- The count of retiring employees both current and ex-employees are 90398 which we get from unique_titles table 
+- image
+
+- From the retiring_titles table we can see that more than 60% of the retiring staff are present in Senior Engineer and Senior Staff. These two roles has high requirment for new employees
+-image
+- Assistant Engineer and Manager has less number of people who are going to retire. These two roles has least requirment for new employees
+-image
+- There are 1549 eligible employees who can mentor the if company hires new employees
+- image 
+## Summary
+
